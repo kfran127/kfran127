@@ -9,6 +9,7 @@
   
 - **Microsoft Azure**  
   - [Configuring Active Directory within Azure VMs](https://github.com/kfran127/configure-ad)  
+  - [Advanced DNS Configuration in Active Directory within Azure VMs](https://github.com/kfran127/advanced-dns-configuration)  
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
 
 <h2>Connect with me:</h2>
