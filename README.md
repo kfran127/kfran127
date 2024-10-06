@@ -10,7 +10,11 @@
 - **Microsoft Azure**  
   - [Configuring Active Directory within Azure VMs](https://github.com/kfran127/configure-ad)  
   - [Advanced DNS Configuration in Active Directory within Azure VMs](https://github.com/kfran127/advanced-dns-configuration)  
-  - [Network File Shares and Permissions Lab](https://github.com/kfran127/network-file-shares-and-permissions)
+  - [Network File Shares and Permissions](https://github.com/kfran127/network-file-shares-and-permissions)
+
+- **Networking Projects**  
+  - [Exploring VPN and IP Geolocation Changes in Azure VMs](https://github.com/kfran127/vpn-ip-lab)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
