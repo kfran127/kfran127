@@ -13,7 +13,7 @@
   - [Network File Shares and Permissions](https://github.com/kfran127/network-file-shares-and-permissions)
 
 - **Networking Projects**  
-  - [Exploring VPN and IP Geolocation Changes in Azure VMs](https://github.com/kfran127/vpn-ip-lab)
+  - [Setting up a Vpn in a Azure VM](https://github.com/kfran127/vpn-ip-lab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
 
 <h2>Connect with me:</h2>
