@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kency, an <a href="https://linkedin.com/in/kency-francois">IT Professional</a> 👋🏾</h1>
+<h1>Hi, I'm Kency, an <a href="https://linkedin.com/in/kency-francois">Aspiring Cyber Professional</a> 👋🏾</h1>
 
-<h2>Information Technology Projects:</h2>
+<h2>Personal Projects:</h2>
 
 - **Cybersecurity Projects**
   - [Phishing Email Analysis](https://github.com/kfran127/phishing-email-analysis)
