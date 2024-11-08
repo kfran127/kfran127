@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - **Cybersecurity Projects**
-- [Phishing Mail Detected - Suspicious Task Schedule]()
+  - [Phishing Mail Detected - Suspicious Task Schedule]()
 
 - **osTicket (Help Desk Ticketing System)**  
   - [osTicket: Prerequisites and Installation](https://github.com/kfran127/osticket-prereqs)  
