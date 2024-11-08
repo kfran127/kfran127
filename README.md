@@ -19,7 +19,6 @@
  
 
 <h2>Connect with me:</h2>
-
 <a href="https://www.linkedin.com/in/kency-francois" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22px" style="vertical-align:middle;">
 </a>
