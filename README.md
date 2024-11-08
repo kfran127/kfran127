@@ -2,6 +2,9 @@
 
 <h2>Information Technology Projects:</h2>
 
+- **Cybersecurity Projects**
+- [Phishing Mail Detected - Suspicious Task Schedule]()
+
 - **osTicket (Help Desk Ticketing System)**  
   - [osTicket: Prerequisites and Installation](https://github.com/kfran127/osticket-prereqs)  
   - [osTicket: Post-Installation Configuration](https://github.com/kfran127/post-install-config)  
@@ -15,6 +18,7 @@
 - **Networking Projects**  
   - [Setting up a Vpn in a Azure VM](https://github.com/kfran127/vpn-ip-lab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
+ 
 
 <h2>Connect with me:</h2>
 
