@@ -11,6 +11,7 @@ These projects highlight my experience in identifying vulnerabilities, analyzing
 - [Home SOC Lab Project](https://github.com/kfran127/home-soc-setup)
 - [Threat Hunting Project](https://github.com/kfran127/threat-hunting)
 - [Vulnerability Management Project](https://github.com/kfran127/vulnerability-management)
+- [SQL Injection Incident Analysis](https://github.com/kfran127/sql-injection-incident-analysis)
 - [Phishing Email Analysis](https://github.com/kfran127/phishing-email-analysis)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
 
