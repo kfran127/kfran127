@@ -8,7 +8,6 @@ These projects highlight my experience in identifying vulnerabilities, analyzing
 
 ## Cybersecurity Projects
 
-- [Home SOC Lab Project](https://github.com/kfran127/home-soc-setup)
 - [Threat Hunting Project](https://github.com/kfran127/threat-hunting)
 - [Vulnerability Management Project](https://github.com/kfran127/vulnerability-management)
 - [SQL Injection Incident Analysis](https://github.com/kfran127/sql-injection-incident-analysis)
