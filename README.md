@@ -1,33 +1,35 @@
-# Kency Francois' IT and Cybersecurity Project Portfolio
+# Kency Francois | Cybersecurity & Identity and Access Management
 
-I’m passionate about cybersecurity and enjoy tackling real-world security challenges through hands-on projects. From vulnerability management to threat hunting, I focus on understanding and improving security operations by working with industry-relevant tools and techniques.  
-
-These projects highlight my experience in identifying vulnerabilities, analyzing threats, and strengthening system security. Feel free to explore my work and see how I apply my skills in cybersecurity.
+I'm a cybersecurity professional focused on Identity and Access Management, with hands-on experience in enterprise SOC operations, identity lifecycle management, and cloud security. My projects span Entra ID, Active Directory, access governance, vulnerability management, and threat detection using Microsoft Azure and industry-standard security tools. I'm passionate about building secure, least-privilege environments and automating identity workflows. Currently pursuing SC-300 (Microsoft Identity and Access Administrator).
 
 ---
 
-## Cybersecurity Projects
+## Identity and Access Management
+
+- [JML Lifecycle Automation (PowerShell + Microsoft Graph API)](https://github.com/kfran127/jml-lifecycle-automation)
+- [RBAC Design and Implementation](https://github.com/kfran127/rbac-design-implementation)
+- [Azure Entra ID Identity Lab](https://github.com/kfran127/entra-id-identity-lab)
+
+## Security Operations and Threat Detection
 
 - [Threat Hunting Project](https://github.com/kfran127/threat-hunting)
-- [Vulnerability Management Project](https://github.com/kfran127/vulnerability-management)
 - [SQL Injection Incident Analysis](https://github.com/kfran127/sql-injection-incident-analysis)
 - [Phishing Email Analysis](https://github.com/kfran127/phishing-email-analysis)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
+- [Network Security Groups and Inspecting Network Protocols](https://github.com/kfran127/azure-network-protocols)
 
-## Microsoft Azure
-- [Configuring Active Directory within Azure VMs](https://github.com/kfran127/configure-ad)  
-- [Advanced DNS Configuration in Active Directory within Azure VMs](https://github.com/kfran127/advanced-dns-configuration)  
-- [Network File Shares and Permissions](https://github.com/kfran127/network-file-shares-and-permissions)  
-- [Setting up a VPN in an Azure VM](https://github.com/kfran127/vpn-ip-lab)  
+## Vulnerability Management
 
-## osTicket (Help Desk Ticketing System)
-- [osTicket: Prerequisites and Installation](https://github.com/kfran127/osticket-prereqs)  
-- [osTicket: Post-Installation Configuration](https://github.com/kfran127/post-install-config)  
-- [osTicket: Ticket Lifecycle Examples](https://github.com/kfran127/ticket-lifecycle)  
+- [Vulnerability Management Project](https://github.com/kfran127/vulnerability-management)
 
----
+## Help Desk and IT Operations
 
-## 🤝 Connect with Me  
-[LinkedIn - Kency Francois](https://www.linkedin.com/in/kency-francois)
+- [osTicket: Prerequisites and Installation](https://github.com/kfran127/osticket-prereqs)
+- [osTicket: Post-Installation Configuration](https://github.com/kfran127/post-install-config)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/kfran127/ticket-lifecycle)
+- [Setting up a VPN in an Azure VM](https://github.com/kfran127/vpn-ip-lab)
 
 ---
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/kency-francois)
