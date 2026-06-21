@@ -108,6 +108,21 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 ---
 
+### 🏢 Hybrid Identity Lab &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-E36209?style=flat-square)
+
+> *On-premises Active Directory integrated with Microsoft Entra ID via Entra Connect Sync, simulating a real enterprise hybrid identity environment.*
+
+- Deployed **Windows Server 2022 Domain Controller** in Azure with Active Directory Domain Services configured for securebank.local
+- Created **5 Organizational Units** and **15 users** mirroring the SecureBank department structure
+- Installed and configured **Microsoft Entra Connect Sync** with Password Hash Sync to synchronize on-premises identities to Entra ID
+- Simulated **hybrid JML workflows** — creating, modifying, and disabling users on-prem and verifying real-time sync to the cloud
+
+`Active Directory` `Microsoft Entra Connect` `Password Hash Sync` `Hybrid Identity` `Windows Server 2022` `Azure`
+
+🔗 [github.com/kfran127/hybrid-identity-lab](https://github.com/kfran127/hybrid-identity-lab)
+
+---
+
 ### ⚙️ PowerShell IAM Automation Toolkit &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-E36209?style=flat-square)
 
 > *End-to-end identity lifecycle automation for Microsoft Entra ID, covering onboarding, auditing, and offboarding at scale.*
