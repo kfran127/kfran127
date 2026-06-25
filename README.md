@@ -108,7 +108,7 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 ---
 
-### 🏢 Hybrid Identity Lab &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-E36209?style=flat-square)
+### 🏢 Hybrid Identity Lab &nbsp; ![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=flat-square)
 
 > *On-premises Active Directory integrated with Microsoft Entra ID via Entra Connect Sync, simulating a real enterprise hybrid identity environment.*
 
