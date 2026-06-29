@@ -40,7 +40,7 @@
 
 ## 👋 About Me
 
-IAM professional focused on the full identity lifecycle: provisioning, access governance, MFA enforcement, and automation. Previously at **Willkie Farr & Gallagher LLP** managing user access in Varonis and administering Duo Security MFA across the organization.
+IAM professional focused on the full identity lifecycle: provisioning, access governance, MFA enforcement, and automation. 
 
 Currently pursuing **Microsoft SC-300** and deepening hands-on experience across Entra ID, PowerShell automation, and Okta federation.
 
@@ -92,53 +92,99 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 ## 📁 Projects
 
-### 🏦 SecureBank IAM Lab &nbsp; ![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=flat-square)
+<br>
+
+<div align="center">
+
+### 🏦 SecureBank IAM Lab
+![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
+
+</div>
 
 > *Full identity lifecycle management environment in Microsoft Entra ID simulating a regulated banking institution.*
 
 - Implemented **Joiner/Mover/Leaver** workflows with documented runbooks
 - Designed **5 Conditional Access policies** enforcing MFA, device compliance, and risk-based access aligned to BSA/PATRIOT Act requirements
 - Configured **Privileged Identity Management (PIM)** for just-in-time admin access, eliminating standing privileges
-- Built **automated quarterly access reviews** and entitlement management packages
-- Created **KQL monitoring queries** tracking failed sign-ins, PIM activations, and provisioning events
+- Built **automated access reviews** and an entitlement management catalog with self-service access packages
+- Created **KQL monitoring queries** tracking failed sign-ins, new user creation, and PIM activations
 
-`Microsoft Entra ID` `Azure PIM` `Conditional Access` `Entitlement Management` `KQL` `Log Analytics`
+<p align="center">
+<code>Microsoft Entra ID</code> <code>Azure PIM</code> <code>Conditional Access</code> <code>Entitlement Management</code> <code>KQL</code> <code>Log Analytics</code>
+</p>
 
-🔗 [github.com/kfran127/securebank-iam-lab](https://github.com/kfran127/securebank-iam-lab)
+<p align="center">
+🔗 <a href="https://github.com/kfran127/securebank-iam-lab">github.com/kfran127/securebank-iam-lab</a>
+</p>
+
+<br>
 
 ---
 
-### 🏢 Hybrid Identity Lab &nbsp; ![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=flat-square)
+<br>
+
+<div align="center">
+
+### 🏢 Hybrid Identity Lab
+![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
+
+</div>
 
 > *On-premises Active Directory integrated with Microsoft Entra ID via Entra Connect Sync, simulating a real enterprise hybrid identity environment.*
 
-- Deployed **Windows Server 2022 Domain Controller** in Azure with Active Directory Domain Services configured for securebank.local
-- Created **5 Organizational Units** and **15 users** mirroring the SecureBank department structure
-- Installed and configured **Microsoft Entra Connect Sync** with Password Hash Sync to synchronize on-premises identities to Entra ID
-- Simulated **hybrid JML workflows** — creating, modifying, and disabling users on-prem and verifying real-time sync to the cloud
+- Deployed a **Windows Server 2022 Domain Controller** in Azure with Active Directory Domain Services configured for securebank.local
+- Created **5 Organizational Units** and bulk provisioned **15 users** mirroring the SecureBank department structure
+- Installed and configured **Microsoft Entra Connect Sync** with Password Hash Sync to synchronize on-premises identities to the cloud
+- Simulated **hybrid JML workflows**, creating, moving, and disabling users on-prem and verifying real-time sync to Entra ID
 
-`Active Directory` `Microsoft Entra Connect` `Password Hash Sync` `Hybrid Identity` `Windows Server 2022` `Azure`
+<p align="center">
+<code>Active Directory</code> <code>Microsoft Entra Connect</code> <code>Password Hash Sync</code> <code>Hybrid Identity</code> <code>Windows Server 2022</code> <code>Azure</code>
+</p>
 
-🔗 [github.com/kfran127/hybrid-identity-lab](https://github.com/kfran127/hybrid-identity-lab)
+<p align="center">
+🔗 <a href="https://github.com/kfran127/hybrid-identity-lab">github.com/kfran127/hybrid-identity-lab</a>
+</p>
 
----
-
-### ⚙️ PowerShell IAM Automation Toolkit &nbsp; ![Status](https://img.shields.io/badge/Status-In_Progress-E36209?style=flat-square)
-
-> *End-to-end identity lifecycle automation for Microsoft Entra ID, covering onboarding, auditing, and offboarding at scale.*
-
-- **Bulk onboarding script** — CSV to Entra ID user creation and group assignment
-- **Stale account detector** — 30+ days no sign-in triggers an audit report
-- **Automated offboarding** — disable account, remove groups, revoke sessions
-- **Access report generator** — group and app access inventory export
-
-`PowerShell` `Microsoft Graph API` `Entra ID` `Automation`
-
-🔗 [github.com/kfran127/powershell-iam-toolkit](https://github.com/kfran127/powershell-iam-toolkit)
+<br>
 
 ---
 
-### ☁️ AWS Cloud Security Lab &nbsp; ![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=flat-square)
+<br>
+
+<div align="center">
+
+### 🔐 Okta SSO Lab
+![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
+
+</div>
+
+> *Production-style Okta tenant simulating enterprise IAM for a regulated bank, covering SSO, MFA enforcement, and inbound federation with Microsoft Entra ID.*
+
+- Built a **5-group department directory** and imported **15 users** via CSV in staged status to work within the trial tenant's active user limit
+- Configured **SAML 2.0 SSO** for SecureBank-CoreBanking and **OIDC SSO** for SecureBank-LoanSystem, each scoped to its own department group
+- Enforced **MFA on every sign-in** with a catch-all authentication policy requiring Okta Verify and disallowing password-only access
+- Configured **inbound federation with Microsoft Entra ID**, including JIT provisioning and a domain-restricted routing rule, so existing Microsoft accounts log into Okta automatically
+
+<p align="center">
+<code>Okta</code> <code>SAML 2.0</code> <code>OIDC</code> <code>MFA</code> <code>Identity Federation</code> <code>JIT Provisioning</code>
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/kfran127/okta-sso-lab">github.com/kfran127/okta-sso-lab</a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### ☁️ AWS Cloud Security Lab
+![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
+
+</div>
 
 > *Hands-on AWS IAM hardening focused on least-privilege policy design and cloud misconfiguration remediation.*
 
@@ -147,38 +193,70 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 - Enabled **multi-region CloudTrail** audit logging for full API visibility
 - Detected and remediated **critical IAM misconfigurations** with documented findings
 
-`AWS IAM` `CloudTrail` `VPC` `EC2` `S3` `Security Groups`
+<p align="center">
+<code>AWS IAM</code> <code>CloudTrail</code> <code>VPC</code> <code>EC2</code> <code>S3</code> <code>Security Groups</code>
+</p>
 
-🔗 [github.com/kfran127/aws-cloud-security](https://github.com/kfran127/aws-cloud-security)
+<p align="center">
+🔗 <a href="https://github.com/kfran127/aws-cloud-security">github.com/kfran127/aws-cloud-security</a>
+</p>
 
----
-
-### 🔐 Okta SSO & Federation Lab &nbsp; ![Status](https://img.shields.io/badge/Status-Planned_July_2026-0075CA?style=flat-square)
-
-> *Production-style Okta tenant with SSO, MFA enforcement, and inbound federation from Microsoft Entra ID.*
-
-- Okta Developer environment with **15 users and groups**
-- **SSO** configured for Salesforce and Zendesk
-- **MFA** enforced with Okta Verify
-- **Inbound federation** with Microsoft Entra ID via OIDC
-
-`Okta` `SSO` `OIDC` `SAML` `MFA` `Identity Federation`
-
-🔗 [github.com/kfran127/okta-sso-lab](https://github.com/kfran127/okta-sso-lab)
+<br>
 
 ---
 
-### 🔄 Automated Joiner Pipeline &nbsp; ![Status](https://img.shields.io/badge/Status-Planned_August_2026-0075CA?style=flat-square)
+<br>
+
+<div align="center">
+
+### ⚙️ PowerShell IAM Automation Toolkit
+![Status](https://img.shields.io/badge/Status-In_Progress-E36209?style=for-the-badge)
+
+</div>
+
+> *End-to-end identity lifecycle automation for Microsoft Entra ID, covering onboarding, auditing, and offboarding at scale.*
+
+- **Bulk onboarding script** syncing a CSV to Entra ID user creation and group assignment
+- **Stale account detector** flagging 30+ days of no sign-in for an audit report
+- **Automated offboarding** that disables the account, removes groups, and revokes sessions
+- **Access report generator** exporting a full group and app access inventory
+
+<p align="center">
+<code>PowerShell</code> <code>Microsoft Graph API</code> <code>Entra ID</code> <code>Automation</code>
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/kfran127/powershell-iam-toolkit">github.com/kfran127/powershell-iam-toolkit</a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🔄 Automated Joiner Pipeline
+![Status](https://img.shields.io/badge/Status-Planned_August_2026-0075CA?style=for-the-badge)
+
+</div>
 
 > *Zero-touch new-hire provisioning from intake form to fully provisioned identity, no manual steps.*
 
-- **Microsoft Forms** new-hire intake form as the trigger
-- **Power Automate** flow: form submission → user creation → group assignment
+- **Microsoft Forms** new-hire intake form acting as the trigger
+- **Power Automate** flow taking the form submission through user creation and group assignment
 - **Dynamic groups** configured for auto-join by department attribute
 
-`Power Automate` `Microsoft Forms` `Dynamic Groups` `Entra ID` `Provisioning`
+<p align="center">
+<code>Power Automate</code> <code>Microsoft Forms</code> <code>Dynamic Groups</code> <code>Entra ID</code> <code>Provisioning</code>
+</p>
 
-🔗 [github.com/kfran127/joiner-automation](https://github.com/kfran127/joiner-automation)
+<p align="center">
+🔗 <a href="https://github.com/kfran127/joiner-automation">github.com/kfran127/joiner-automation</a>
+</p>
+
+</div>
 
 <br>
 
