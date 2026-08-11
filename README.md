@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header" width="100%" alt=""/>
 
 <a href="https://github.com/kfran127">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Identity+%26+Access+Management+Professional;Building+Zero-Trust+IAM+Environments;Security%2B+Certified+%7C+SC-300+In+Progress" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cyber+Professional;Building+Zero-Trust+IAM+Environments;Security%2B+Certified+%7C+SC-300+In+Progress" alt="Typing SVG"/>
 </a>
 
 <br>
