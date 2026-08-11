@@ -40,7 +40,7 @@
 
 ## 👋 About Me
 
-IAM professional focused on the full identity lifecycle: provisioning, access governance, MFA enforcement, and automation. 
+Cyber professional focused on the full identity lifecycle: provisioning, access governance, MFA enforcement, and automation. 
 
 Currently pursuing **Microsoft SC-300** and deepening hands-on experience across Entra ID, PowerShell automation, and Okta federation.
 
