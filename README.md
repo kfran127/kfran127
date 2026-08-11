@@ -96,6 +96,34 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 <div align="center">
 
+### 📋 SecureBank IT General Controls Audit
+![Status](https://img.shields.io/badge/Status-In_Progress-E36209?style=for-the-badge)
+</div>
+
+> *IT general controls audit simulation testing access management, privileged access, and governance controls within the SecureBank IAM environment.*
+
+- Defined an **audit scope** covering provisioning, privileged access, access reviews, and segregation of duties
+- Conducted **control testing** with documented test procedures, evidence collection, and pass/fail conclusions for each control
+- Prepared **audit workpapers** following a standard Control Objective → Test → Evidence → Conclusion format
+- Used **AI-assisted workflows** to draft audit scope, summarize KQL query evidence, and accelerate workpaper documentation
+- Delivered an **executive summary** with findings and recommendations for control improvement
+
+<p align="center">
+<code>IT General Controls</code> <code>Control Testing</code> <code>Access Management Audit</code> <code>Segregation of Duties</code> <code>Workpapers</code> <code>AI-Assisted Audit</code>
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/kfran127/securebank-audit-project">github.com/kfran127/securebank-audit-project</a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
 ### 🏦 SecureBank IAM Lab
 ![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
 
