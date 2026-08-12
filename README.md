@@ -92,6 +92,10 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 ## 📁 Projects
 
+<br>
+
+<div align="center">
+
 ### 🏦 SecureBank IAM Lab
 ![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
 
