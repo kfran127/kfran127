@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header" width="100%" alt=""/>
 
 <a href="https://github.com/kfran127">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cyber+Professional;Building+Zero-Trust+IAM+Environments;Security%2B+Certified+%7C+SC-300+In+Progress" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Security+Analyst;+Incident+Response+%7C+Vulnerability+Management;Security%2B+Certified+%7C+SC-300+In+Progress" alt="Typing SVG"/>
 </a>
 
 <br>
 
 # Kency Francois
 
-**Identity & Access Management Professional** &nbsp;·&nbsp; 📍 Miami, FL
+**Security Analyst** &nbsp;·&nbsp; 📍 Miami, FL
 
 <br>
 
@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:kfran127@fiu.edu">
-  <img src="https://img.shields.io/badge/Email-kfran127%40fiu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:kencyfrancoiss@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kencyfrancoiss%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/kfran127">
@@ -32,7 +32,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/SC--300-In_Progress-E36209?style=flat-square" alt="SC-300"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to_Work-IAM_Analyst_%2F_Administrator-0075CA?style=flat-square" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open_to_Work-Security_Analyst_%2F_SOC_Analyst-0075CA?style=flat-square" alt="Open to Work"/>
 
 </div>
 
@@ -40,11 +40,9 @@
 
 ## 👋 About Me
 
-Cyber professional focused on the full identity lifecycle: provisioning, access governance, MFA enforcement, and automation. 
+Security Analyst focused on monitoring, triaging, and investigating security alerts, with hands-on experience in incident response and vulnerability management. Also building deep identity and access management expertise, provisioning, access governance, MFA enforcement, and automation, as a growing area of specialization.
 
-Currently pursuing **Microsoft SC-300** and deepening hands-on experience across Entra ID, PowerShell automation, and Okta federation.
-
-> 🎯 Targeting remote and hybrid **IAM Analyst** and **IAM Administrator** roles. Available immediately.
+Currently pursuing **Microsoft SC-300** and deepening hands-on experience across SIEM tools, Entra ID, and cloud security.
 
 <br>
 
@@ -52,25 +50,34 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 <div align="center">
 
+### 🛡️ Security Operations
+
+<img src="https://img.shields.io/badge/Security_Alert_Triage-D29922?style=for-the-badge" alt="Alert Triage"/>
+<img src="https://img.shields.io/badge/Incident_Response-E36209?style=for-the-badge" alt="Incident Response"/>
+<img src="https://img.shields.io/badge/Vulnerability_Management-2EA44F?style=for-the-badge" alt="Vulnerability Management"/>
+<img src="https://img.shields.io/badge/Threat_Detection-8957E5?style=for-the-badge" alt="Threat Detection"/>
+<img src="https://img.shields.io/badge/QRadar-0078D4?style=for-the-badge" alt="QRadar"/>
+<img src="https://img.shields.io/badge/CrowdStrike_Falcon-FC0A0A?style=for-the-badge" alt="CrowdStrike"/>
+<img src="https://img.shields.io/badge/Varonis-FF6600?style=for-the-badge" alt="Varonis"/>
+<img src="https://img.shields.io/badge/Qualys-C8102E?style=for-the-badge" alt="Qualys"/>
+<img src="https://img.shields.io/badge/Tenable.io-00B4D8?style=for-the-badge" alt="Tenable"/>
+
 ### 🪪 Identity & Access Management
 
 <img src="https://img.shields.io/badge/Microsoft_Entra_ID-5C2D91?style=for-the-badge" alt="Microsoft Entra ID"/>
 <img src="https://img.shields.io/badge/Azure_PIM-0078D4?style=for-the-badge" alt="Azure PIM"/>
 <img src="https://img.shields.io/badge/Conditional_Access-1F6FEB?style=for-the-badge" alt="Conditional Access"/>
-<img src="https://img.shields.io/badge/Entitlement_Management-8957E5?style=for-the-badge" alt="Entitlement Management"/>
 <img src="https://img.shields.io/badge/Active_Directory-003087?style=for-the-badge" alt="Active Directory"/>
 <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge" alt="Okta"/>
-<img src="https://img.shields.io/badge/OIDC_%2F_SAML-58A6FF?style=for-the-badge" alt="OIDC / SAML"/>
-<img src="https://img.shields.io/badge/Varonis-FF6600?style=for-the-badge" alt="Varonis"/>
 <img src="https://img.shields.io/badge/Duo_Security-6BBD45?style=for-the-badge" alt="Duo Security"/>
 
 ### ☁️ Cloud & Automation
 
 <img src="https://img.shields.io/badge/PowerShell-2D2D30?style=for-the-badge" alt="PowerShell"/>
 <img src="https://img.shields.io/badge/Microsoft_Graph_API-1F6FEB?style=for-the-badge" alt="Microsoft Graph API"/>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" alt="Power Automate"/>
 <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge" alt="AWS IAM"/>
 <img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge" alt="KQL"/>
+<img src="https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=for-the-badge" alt="Log Analytics"/>
 
 ### 🔒 Security Foundations
 
@@ -83,14 +90,57 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 ### 📚 Currently Learning
 
 <img src="https://img.shields.io/badge/SC--300_Identity_%26_Access_Administrator-0075CA?style=for-the-badge" alt="SC-300"/>
-<img src="https://img.shields.io/badge/Okta_SSO_%26_Federation-007DC1?style=for-the-badge" alt="Okta SSO"/>
-<img src="https://img.shields.io/badge/Dynamic_Group_Provisioning-1F6FEB?style=for-the-badge" alt="Dynamic Groups"/>
+<img src="https://img.shields.io/badge/SOC_Fundamentals-E36209?style=for-the-badge" alt="SOC Fundamentals"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-8957E5?style=for-the-badge" alt="MITRE ATT&CK"/>
 
 </div>
 
 <br>
+## 📂 Featured Projects
 
-## 📁 Projects
+<div align="center">
+
+### 🕵️ Threat Hunt: Unauthorized TOR Usage
+![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
+
+</div>
+
+Investigated suspicious endpoint activity using Microsoft Defender for Endpoint and KQL, tracing TOR browser installation, execution, and network connections through Windows 10 device telemetry. Built a full chronological incident timeline and documented response actions.
+
+<p align="center">
+<code>Microsoft Defender for Endpoint</code> <code>KQL</code> <code>Endpoint Detection</code> <code>Incident Timeline</code>
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/kfran127/threat-hunting-scenario-tor">github.com/kfran127/threat-hunting-scenario-tor</a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🛡️ Vulnerability Management Project
+![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
+
+</div>
+
+Designed and implemented a full vulnerability management program from policy creation through remediation. Conducted scans using Tenable.io, prioritized findings by severity and business risk, and tracked remediation from discovery to closure using PowerShell and Bash automation.
+
+<p align="center">
+<code>Tenable.io</code> <code>Vulnerability Scanning</code> <code>Risk Prioritization</code> <code>PowerShell</code> <code>Bash</code>
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/kfran127/vulnerability-management-project">github.com/kfran127/vulnerability-management-project</a>
+</p>
+
+<br>
+
+---
 
 <br>
 
@@ -101,76 +151,14 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 </div>
 
-> *Full identity lifecycle management environment in Microsoft Entra ID simulating a regulated banking institution.*
-
-- Implemented **Joiner/Mover/Leaver** workflows with documented runbooks
-- Designed **5 Conditional Access policies** enforcing MFA, device compliance, and risk-based access aligned to BSA/PATRIOT Act requirements
-- Configured **Privileged Identity Management (PIM)** for just-in-time admin access, eliminating standing privileges
-- Built **automated access reviews** and an entitlement management catalog with self-service access packages
-- Created **KQL monitoring queries** tracking failed sign-ins, new user creation, and PIM activations
+Full identity lifecycle management environment simulating a regulated banking institution in Microsoft Entra ID. Implemented Conditional Access with phishing-resistant MFA, Privileged Identity Management, automated access reviews, and Log Analytics monitoring with KQL.
 
 <p align="center">
-<code>Microsoft Entra ID</code> <code>Azure PIM</code> <code>Conditional Access</code> <code>Entitlement Management</code> <code>KQL</code> <code>Log Analytics</code>
+<code>Microsoft Entra ID</code> <code>Azure PIM</code> <code>Conditional Access</code> <code>KQL</code> <code>Log Analytics</code>
 </p>
 
 <p align="center">
 🔗 <a href="https://github.com/kfran127/securebank-iam-lab">github.com/kfran127/securebank-iam-lab</a>
-</p>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 🏢 Hybrid Identity Lab
-![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
-
-</div>
-
-> *On-premises Active Directory integrated with Microsoft Entra ID via Entra Connect Sync, simulating a real enterprise hybrid identity environment.*
-
-- Deployed a **Windows Server 2022 Domain Controller** in Azure with Active Directory Domain Services configured for securebank.local
-- Created **5 Organizational Units** and bulk provisioned **15 users** mirroring the SecureBank department structure
-- Installed and configured **Microsoft Entra Connect Sync** with Password Hash Sync to synchronize on-premises identities to the cloud
-- Simulated **hybrid JML workflows**, creating, moving, and disabling users on-prem and verifying real-time sync to Entra ID
-
-<p align="center">
-<code>Active Directory</code> <code>Microsoft Entra Connect</code> <code>Password Hash Sync</code> <code>Hybrid Identity</code> <code>Windows Server 2022</code> <code>Azure</code>
-</p>
-
-<p align="center">
-🔗 <a href="https://github.com/kfran127/hybrid-identity-lab">github.com/kfran127/hybrid-identity-lab</a>
-</p>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 🔐 Okta SSO Lab
-![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
-
-</div>
-
-> *Production-style Okta tenant simulating enterprise IAM for a regulated bank, covering SSO, MFA enforcement, and inbound federation with Microsoft Entra ID.*
-
-- Built a **5-group department directory** and imported **15 users** via CSV in staged status to work within the trial tenant's active user limit
-- Configured **SAML 2.0 SSO** for SecureBank-CoreBanking and **OIDC SSO** for SecureBank-LoanSystem, each scoped to its own department group
-- Enforced **MFA on every sign-in** with a catch-all authentication policy requiring Okta Verify and disallowing password-only access
-- Configured **inbound federation with Microsoft Entra ID**, including JIT provisioning and a domain-restricted routing rule, so existing Microsoft accounts log into Okta automatically
-
-<p align="center">
-<code>Okta</code> <code>SAML 2.0</code> <code>OIDC</code> <code>MFA</code> <code>Identity Federation</code> <code>JIT Provisioning</code>
-</p>
-
-<p align="center">
-🔗 <a href="https://github.com/kfran127/okta-sso-lab">github.com/kfran127/okta-sso-lab</a>
 </p>
 
 <br>
@@ -186,19 +174,14 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 
 </div>
 
-> *Hands-on AWS IAM hardening focused on least-privilege policy design and cloud misconfiguration remediation.*
-
-- Enforced **least-privilege IAM policies** restricting EC2 access to a single S3 bucket with CLI validation
-- Deployed **secure VPC architecture** with public/private subnet segmentation
-- Enabled **multi-region CloudTrail** audit logging for full API visibility
-- Detected and remediated **critical IAM misconfigurations** with documented findings
+Segmented AWS environment demonstrating least-privilege IAM policy design, multi-region CloudTrail audit logging, and hands-on misconfiguration detection and remediation.
 
 <p align="center">
-<code>AWS IAM</code> <code>CloudTrail</code> <code>VPC</code> <code>EC2</code> <code>S3</code> <code>Security Groups</code>
+<code>AWS IAM</code> <code>VPC</code> <code>CloudTrail</code> <code>Least Privilege</code>
 </p>
 
 <p align="center">
-🔗 <a href="https://github.com/kfran127/aws-cloud-security">github.com/kfran127/aws-cloud-security</a>
+🔗 <a href="https://github.com/kfran127/aws-cloud-security-lab">github.com/kfran127/aws-cloud-security-lab</a>
 </p>
 
 <br>
@@ -238,7 +221,7 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 <div align="center">
 
 ### 🔄 Automated Joiner Pipeline
-![Status](https://img.shields.io/badge/Status-Planned_August_2026-0075CA?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Planned_September_2026-0075CA?style=for-the-badge)
 
 </div>
 
@@ -255,8 +238,6 @@ Currently pursuing **Microsoft SC-300** and deepening hands-on experience across
 <p align="center">
 🔗 <a href="https://github.com/kfran127/joiner-automation">github.com/kfran127/joiner-automation</a>
 </p>
-
-</div>
 
 <br>
 
