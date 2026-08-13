@@ -248,7 +248,7 @@ Segmented AWS environment demonstrating least-privilege IAM policy design, multi
 | Certification | Issuer | Status |
 |:--------------|:-------|:------:|
 | **CompTIA Security+** | CompTIA | ![Issued](https://img.shields.io/badge/Issued_Jan_2025-2EA44F?style=flat-square) |
-| **SC-300: Identity and Access Administrator** | Microsoft | ![In Progress](https://img.shields.io/badge/In_Progress_Expected_Jul_2026-E36209?style=flat-square) |
+| **SC-300: Identity and Access Administrator** | Microsoft | ![In Progress](https://img.shields.io/badge/In_Progress_Expected_Aug_2026-E36209?style=flat-square) |
 
 </div>
 
@@ -256,7 +256,7 @@ Segmented AWS environment demonstrating least-privilege IAM policy design, multi
 
 <div align="center">
 
-*Open to remote and hybrid IAM Analyst and IAM Administrator roles. Available immediately.*
+Open to Security Analysts roles. 
 
 <br>
 
