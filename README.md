@@ -5,9 +5,9 @@
 # Kency Francois
 
 **Security Analyst · Miami, FL**<br>
-Security operations, threat intelligence, and identity security.
+Security operations · Threat intelligence · Cloud detection & identity security
 
-[GitHub](https://github.com/kfran127) · [LinkedIn](https://linkedin.com/in/kency-francois)
+[Portfolio](https://kfran127.github.io) · [LinkedIn](https://linkedin.com/in/kency-francois) · [GitHub](https://github.com/kfran127)
 
 **CompTIA Security+ — Certified** · **CompTIA CySA+ — In Progress**
 
@@ -15,73 +15,82 @@ Security operations, threat intelligence, and identity security.
 
 ## `01 / analyst profile`
 
-I bring **one year of Information Security Analyst internship experience at Willkie Farr & Gallagher LLP**, with hands-on work in SIEM/EDR investigations, threat intelligence, and vulnerability management. My portfolio connects that investigation experience with practical identity security labs and planned work in cloud detection and response.
+I'm a Florida International University Information Systems graduate with **one year of Information Security Analyst internship experience at Willkie Farr & Gallagher LLP**. My work focused on enterprise security alert triage, SIEM/EDR investigations, threat intelligence, and vulnerability management.
+
+Outside of professional experience, I build documented security labs in AWS and Microsoft Entra ID to strengthen my understanding of detection engineering, identity security, and incident response. I'm continuing to develop my Python and cloud security skills.
 
 ### Willkie Farr & Gallagher LLP
 
-**Information Security Analyst Intern · One year**
+**Information Security Analyst Intern · June 2025 – June 2026**
 
-- **SIEM & EDR investigations:** Investigated security alerts and suspicious activity, including malicious links and suspicious executable downloads.
-- **Threat intelligence:** Analyzed indicators such as URLs, domains, IP addresses, and file hashes to support security investigations.
-- **Vulnerability management:** Supported vulnerability management activities and the review of security findings.
+- **Security operations:** Monitored and triaged 100+ weekly alerts across enterprise security tools, documenting investigations and resolutions.
+- **Investigations & threat intelligence:** Reviewed suspicious domains, IPs, executable downloads, endpoint activity, and authentication alerts using SIEM/EDR telemetry and supporting analysis tools.
+- **Vulnerability management:** Reviewed Qualys scan reports, tracked remediation progress, and contributed to internal procedure documentation.
 
 ## `02 / technical skills`
 
-**Security operations**<br>
-Security alert triage · SIEM/EDR investigations · IOC analysis · Threat intelligence · Vulnerability management<br>
-Tools: IBM QRadar · CrowdStrike Falcon · Varonis · Qualys · Tenable.io
+**Professional experience — security operations**<br>
+Alert triage · SIEM/EDR investigations · IOC analysis · Threat intelligence · Vulnerability management · Investigation documentation<br>
+Tools: IBM QRadar · CrowdStrike Falcon · Varonis · Qualys · Duo Security · Cisco Intelligence · VirusTotal · Cisco Prime · SolarWinds
 
-**Identity & access management**<br>
-Microsoft Entra ID · Active Directory · Conditional Access · Privileged Identity Management · MFA · RBAC · Access reviews · Joiner/Mover/Leaver workflows
+**Personal labs — cloud security & identity**<br>
+AWS IAM · AWS CloudTrail · Amazon CloudWatch Logs · AWS Lambda · Amazon SNS · Microsoft Entra ID · Conditional Access · Privileged Identity Management · Access reviews
 
-**Querying & automation**<br>
-KQL · Azure Log Analytics · PowerShell · Microsoft Graph API
+**Developing skills**<br>
+Python (learning) · AWS detection automation · KQL / Azure Log Analytics (lab exposure)
 
-## `03 / completed project`
+## `03 / completed projects`
+
+### [AWS IAM Privilege Escalation Detection & Incident Response](https://github.com/kfran127/aws-iam-privilege-escalation-detection)
+
+**Status: Completed · Authorized AWS security lab**
+
+Built an AWS-native pipeline to detect selected high-risk IAM permission changes and deliver structured email alerts.
+
+- Connected **CloudTrail → CloudWatch Logs subscription filter → Python Lambda → Amazon SNS**.
+- Implemented three narrowly scoped detection rules for privileged policy attachment, administrative group membership changes, and IAM policy version modifications.
+- **Validated one rule end-to-end in AWS:** attached `AdministratorAccess` to a controlled test user and received a real **CRITICAL** SNS email alert.
+- Investigated the CloudTrail event, manually removed the elevated permission, and documented the response.
+- Tested the remaining two rules using synthetic events; they have **not** been validated end-to-end in AWS.
+
+`AWS IAM` `CloudTrail` `CloudWatch Logs` `Lambda` `Python` `SNS`
+
+[Explore the architecture, detection rules, tests, and incident report →](https://github.com/kfran127/aws-iam-privilege-escalation-detection)
 
 ### [SecureBank IAM Lab](https://github.com/kfran127/securebank-iam-lab)
 
 **Status: Completed · Personal lab / simulated banking environment**
 
-Built an identity and access management lab in Microsoft Entra ID to practice identity lifecycle management, least privilege, and access governance.
+Built a Microsoft Entra ID lab focused on identity lifecycle management, least privilege, and access governance.
 
-- Documented Joiner/Mover/Leaver workflows and group-based access assignments.
-- Configured Conditional Access, phishing-resistant MFA, and Privileged Identity Management.
-- Configured access reviews and entitlement management.
-- Connected identity logs to Azure Log Analytics and used KQL to investigate sign-in and audit activity.
+- Practiced Joiner/Mover/Leaver workflows and group-based access assignments.
+- Configured Conditional Access policies, including phishing-resistant MFA requirements for administrators.
+- Configured recurring access reviews and explored privileged access governance.
 
-`Microsoft Entra ID` `Conditional Access` `PIM` `KQL` `Log Analytics`
+`Microsoft Entra ID` `Conditional Access` `PIM` `Access Reviews`
 
-[Explore the lab, configuration, and screenshots →](https://github.com/kfran127/securebank-iam-lab)
+[Explore the identity security lab →](https://github.com/kfran127/securebank-iam-lab)
 
 ## `04 / project roadmap`
 
-The following projects are planned. Descriptions outline intended work; implementations and results are not yet available.
+The following work is in development or planned. Descriptions are goals, **not completed results**.
 
-### AWS Password Spraying Detection
+### AWS Password Spraying Detection Lab
 
-**Status: Planned**
+**Status: In Development**
 
-Design and test a detection for repeated failed console sign-ins across multiple IAM users from one source IP. Validate available CloudTrail telemetry and use clearly labeled synthetic events for controlled testing.
+Design a detection for repeated failed AWS console sign-ins affecting multiple IAM users from a common source IP. Investigate available CloudTrail telemetry and test correlation logic with clearly labeled synthetic events.
 
 **Proposed stack:** AWS CloudTrail · CloudWatch Logs · Lambda · Python · SNS
-
-### AWS Cloud Incident Response
-
-**Status: Planned**
-
-Build a controlled cloud incident scenario and document evidence collection, investigation, containment, and recovery in an incident response runbook.
-
-**Intended focus:** AWS audit logs · IAM activity · Incident timelines · Response documentation
 
 ### AI-Powered SOC Investigation Assistant
 
 **Status: Planned**
 
-Prototype an assistant that summarizes sample alerts, organizes supporting evidence, and suggests investigation steps for analyst review. Evaluate accuracy and evidence traceability using labeled test cases.
+Prototype a Python-based assistant that turns sample security alerts into structured investigation summaries, preserves links to supporting evidence, and keeps decisions with a human analyst.
 
-**Intended focus:** Alert triage · Evidence summaries · Human review · Evaluation
+**Proposed focus:** Alert triage · Evidence preparation · LLM-assisted summaries · Analyst review · Evaluation
 
 ---
 
-**Connect:** [LinkedIn](https://linkedin.com/in/kency-francois) · [GitHub](https://github.com/kfran127)
+**Connect:** [Portfolio](https://kfran127.github.io) · [LinkedIn](https://linkedin.com/in/kency-francois) · [GitHub](https://github.com/kfran127)
