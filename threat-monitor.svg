@@ -1,11 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
-  <title id="title">KF / Cybersecurity</title>
-  <desc id="desc">Minimal dark publication header with a subtle purple rule. Enterprise investigations. Evidence-driven detection. Cloud security.</desc>
-  <rect width="1200" height="180" rx="6" fill="#11131b"/>
-  <path d="M40 40V140" stroke="#a49acb" stroke-width="3"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="66" y="65" font-size="28" font-weight="700" letter-spacing="3" fill="#eeedf4">KF / CYBERSECURITY</text>
-    <text x="66" y="110" font-size="24" fill="#d2d3df">Enterprise investigations. Evidence-driven detection. Cloud security.</text>
-    <text x="66" y="144" font-size="17" letter-spacing="1.4" fill="#aaa8bf">SECURITY OPERATIONS / THREAT DETECTION / THREAT INTELLIGENCE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">KF. / Cybersecurity — Security, with perspective.</title>
+  <desc id="desc">Kency Francois, Miami, FL. Security operations, threat detection, and threat intelligence. A near-black editorial header with lavender serif typography and a sparse decorative security network; no live data.</desc>
+  <defs>
+    <radialGradient id="ambient">
+      <stop stop-color="#7C3AED" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#342B49"/>
+      <stop offset=".6" stop-color="#A78BFA" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#342B49"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="8" fill="#0A0911"/>
+  <ellipse cx="1000" cy="160" rx="210" ry="190" fill="url(#ambient)"/>
+  <g fill="none" stroke="#342B49" stroke-width="1">
+    <path d="M840 44H1154V257H840Z M840 115H1154 M840 186H1154 M918 44V257 M997 44V257 M1075 44V257" opacity=".48"/>
+    <path d="M875 92 956 130 1053 81 1120 159 1022 222 933 209 875 92Z M956 130 1022 222 M956 130 1120 159"/>
+    <path d="M48 278H1152"/>
+  </g>
+  <path d="M875 92 956 130 1053 81 M956 130 1022 222 1120 159" fill="none" stroke="url(#signal)" stroke-width="1.6"/>
+  <circle cx="956" cy="130" r="17" fill="#A78BFA" fill-opacity=".05" stroke="#A78BFA" stroke-opacity=".16"/>
+  <g fill="#A78BFA">
+    <circle cx="875" cy="92" r="3"/><circle cx="956" cy="130" r="4"/>
+    <circle cx="1053" cy="81" r="3"/><circle cx="1120" cy="159" r="3"/>
+    <circle cx="1022" cy="222" r="3"/>
+  </g>
+  <circle cx="933" cy="209" r="2.5" fill="#A7A0B8"/>
+  <text x="48" y="65" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#F5F2FF">KF<tspan fill="#A78BFA">.</tspan></text>
+  <text x="111" y="61" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="2" fill="#A7A0B8">/ CYBERSECURITY</text>
+  <text x="48" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="60" letter-spacing="-2" fill="#F5F2FF">Security, with <tspan font-style="italic" fill="#b59def">perspective.</tspan></text>
+  <path d="M48 199H76" stroke="#A78BFA" stroke-width="1.5"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing=".45" fill="#A7A0B8">
+    <text x="90" y="204">SECURITY OPERATIONS / THREAT DETECTION</text>
+    <text x="90" y="231">/ THREAT INTELLIGENCE</text>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16">
+    <text x="48" y="312" letter-spacing="2" fill="#F5F2FF">KENCY FRANCOIS</text>
+    <text x="1152" y="312" text-anchor="end" fill="#A7A0B8">Miami, FL</text>
   </g>
 </svg>
