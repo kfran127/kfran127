@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="threat-monitor.svg" width="100%" alt="KF / Cybersecurity — restrained dark publication header with a subtle purple accent." />
+  <img src="threat-monitor.svg" width="100%" alt="KF. / Cybersecurity — Security, with perspective. Kency Francois, Miami, FL. Purple-accented editorial header with a decorative security network." />
 </p>
 
 # Kency Francois
