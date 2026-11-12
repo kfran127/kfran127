@@ -23,7 +23,7 @@
 **Willkie Farr & Gallagher LLP** &nbsp;·&nbsp; Information Security Analyst Intern<br>
 <sub>JUNE 2025 — JUNE 2026 &nbsp;·&nbsp; Security investigations, authentication review, and vulnerability management support</sub>
 
-- Monitored and triaged **100+ weekly security alerts** across QRadar, CrowdStrike, Varonis, Duo Security, and Cisco Intelligence, documenting findings and resolutions
+- Monitored and triaged **100+ weekly security alerts** across QRadar, CrowdStrike, Varonis, Duo Security, and Cisco Intelligence, documenting findings
 - Investigated malicious domains and suspicious IPs using IBM X-Force, AlienVault OTX, VirusTotal, and AbuseIPDB
 - Investigated suspicious executable downloads from CrowdStrike alerts, retrieving files through a sandbox platform and analyzing samples with VirusTotal
 - Investigated Varonis alerts on abnormal file deletions and outbound transfers, reviewing user activity and destinations for unauthorized behavior
